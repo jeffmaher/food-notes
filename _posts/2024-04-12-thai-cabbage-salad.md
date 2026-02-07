@@ -37,11 +37,10 @@ Makes 8-10 servings.
 - 3/4 cup peanuts (or peanut butter)
 - 3 tbsp lime juice
 - 3 tbsp rice vinegar
-- 1/4 cup grape seed vinegar (or an amount to taste)
+- 1/4 cup grape seed oil (or an amount to taste)
 - 1 tbsp honey, agave, or sugar
 - 2 tbsp soy sauce (or an amount to taste)
 - 1 jalapeno or chili flakes (or an amount to taste)
-- 
 
 # Instructions
 
