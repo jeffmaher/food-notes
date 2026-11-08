@@ -16,25 +16,35 @@ This makes 8-10 sandwiches of pickled vegetables. The recipe takes 5 days to fer
 
 Note: Any of the vegetables can be replaced.
 
-- 2-3 carrots
-- 1 cucumber
-- 2 bell peppers
-- 3 handfuls of snap peas
+## Brine
+
 - 2 cups of distilled vinegar
 - 8 tbsp of sugar
 - 4 tbsp of salt
 - 2 tbsp of mustard seeds
 - 2 tbsp of pickling spices (or all yellow mustard)
 - 2 cups of cold water
+
+## Vegetables
+
+- 2-3 carrots
+- 1 cucumber
+- 2 bell peppers
+- 3 handfuls of snap peas
+
+## Sandwich Related
+
 - Vegan mayo or cheddar cheese
 - Bread (recommend a hearty bread, like sour dough)
 
 # Instructions
 
-1. Except the water, combine all other ingredients into the pot to make a brine
+1. Except the water, combine all brine ingredients into the pot
 1. Heat pot on medium until sugar disolves (about 5 minutes)
 1. Remove pot from heat and pour in 2 cups of cold water
 1. When the brine is cool to the touch, add to the glass jar
+1. Cut the vegetables into small strips
+1. Add the vegetables and brine into the glass jar
 1. Make sure as many vegetables as possible are covered in the brine
 1. Put glass jar in fridge
 1. Over the next 5 days, periodically check the jar to make sure vegetables eventually are covered in liquid 
